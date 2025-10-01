@@ -1,4 +1,4 @@
-Информация: Перевод квестов, а также части модов из модпака Fear Nightfall (1.1.3)
+Информация: Перевод квестов, а также части модов из модпака Fear Nightfall (1.1.3+)
 
 Ссылка на сам [модпак](https://www.curseforge.com/minecraft/modpacks/fear-nightfall)
 
